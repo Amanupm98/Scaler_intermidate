@@ -1,4 +1,4 @@
-package introtoarrays.session.problems;
+package introtoarrays.sessionproblems;
 
 //Given N array elements, check if there exists a pair of i,j such that arr[i]+arr[j] = k and i!=j, i and j are index values & k is the given sum.
 public class PairOfIJ {

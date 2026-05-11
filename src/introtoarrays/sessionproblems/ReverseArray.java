@@ -1,4 +1,4 @@
-package introtoarrays.session.problems;
+package introtoarrays.sessionproblems;
 
 
 import java.util.Arrays;

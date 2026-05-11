@@ -1,4 +1,4 @@
-package introtoarrays.session.problems;
+package introtoarrays.sessionproblems;
 
 public class PrintArrays {
 

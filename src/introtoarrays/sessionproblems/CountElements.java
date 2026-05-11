@@ -1,4 +1,4 @@
-package introtoarrays.session.problems;
+package introtoarrays.sessionproblems;
 
 
 // Given n array elements, count number of elements having at least 1 element greater than itself.
