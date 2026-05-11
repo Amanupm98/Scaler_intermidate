@@ -12,7 +12,6 @@ public class CountElements {
         int numberOfTimes = countOfAppearance(arr,max);
         result = (arr.length-numberOfTimes);
         System.out.println(result);
-
     }
 
     private static int countOfAppearance(int[] arr, int max) {
@@ -34,5 +33,4 @@ public class CountElements {
         }
         return max;
     }
-
 }

@@ -7,7 +7,6 @@ public class PairOfIJ {
         int[] arr = {3,-2,1,4,3,6,8};
         int target = 11;
         boolean result = false;
-
         result = doesPairExist(arr,target);
         System.out.println(result);
     }
