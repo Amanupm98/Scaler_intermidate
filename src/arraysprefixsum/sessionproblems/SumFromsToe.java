@@ -13,10 +13,8 @@ public class SumFromsToe {
         int s = 9;
         int e = 9;
         createPrefixSumArray(psArr, arr);
-
         int result = getSumForStartAndEnd(psArr, s, e);
         System.out.println(result);
-
     }
 
     private static int getSumForStartAndEnd(int[] psArr, int s, int e) {
@@ -33,8 +31,5 @@ public class SumFromsToe {
         for (int i = 1; i < arr.length; i++) {
             psArr[i] = psArr[i - 1] + arr[i];
         }
-
-
     }
-
 }
